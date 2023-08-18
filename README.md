@@ -1,4 +1,4 @@
-# Fine Tuning T5
+# Fine Tuning flan-t5-small
 
 Model for a Q&A task that takes a context as additional input along with the question.
 
